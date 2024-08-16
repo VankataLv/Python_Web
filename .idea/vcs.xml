@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/JAN_2024/05/urls_and_views" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAN_2024/06/templates" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAN_2024/06/templates_basics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAN_2024/06/templates_static_files" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/JAN_2024/petstagram" vcs="Git" />
+  </component>
+</project>
